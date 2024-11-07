@@ -1,4 +1,4 @@
-﻿# password-generator
+v﻿# password-generator
 <h1 align="center">Описание</h1>
 Предоставляю проект генератор паролей, который сгенерирует надеждный пароль для любых целей
 <h1 align="center">Функциональность:</h1>
@@ -18,3 +18,8 @@
 <a href="https://github.com/Besego/Password-Generator/blob/master/Password_Generator/IDeF0.drawio.png">Ссылка на диаграмму</a>
 
 <h1 align="center">Инструкция по установке</h1>
+<ul>
+    <li>Выбрать репозиторий.</li>
+    <li>Нажать на зеленую кнопку Code.</li>
+    <li>Выбрать ZIP и после скачивания можно открывать разные файлы.</li>
+</ul>
