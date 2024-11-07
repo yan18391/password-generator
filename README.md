@@ -14,3 +14,7 @@
     </ul>
     <li>Пароль можно скопировать нажав на кнопку справа от пароля.</li>
 <ul>  
+<h1 align="center">Код создан на основе IDeF0 диаграммы</h1>
+<a href="https://github.com/Besego/Password-Generator/blob/master/Password_Generator/IDeF0.drawio.png">Ссылка на диаграмму</a>
+
+<h1 align="center">Инструкция по установке</h1>
